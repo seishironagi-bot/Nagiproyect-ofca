@@ -40,20 +40,20 @@ global.opts['gconly'] = true
 
 //creador y otros
 global.botcommandcount = bot.botcommandCount //Ver cuantos comandos fueron ejecutados.
-global.creador = 'Wa.me/5351524614'
+global.creador = 'Wa.me/51920227615'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
-global.asistencia = 'Wa.me/5351524614'
-global.namechannel = '⏤͟͞ू⃪ ፝͜⁞M͢ᴇɢ፝֟ᴜᴍ⃨ɪɴ⃜✰⃔࿐/ᥫᩣᎠ꯭I𝚫⃥꯭M꯭Ꭷ꯭Ꮑ꯭Ꭰ࠭⋆̟(◣_◢)凸'
-global.namegrupo = '⁝̵̓ᝒ̷̸͙🌸̶̩ܻᝒ̷̸꯭͙𝝡꯭𝝣꯭𝗚꯭𝗨꯭𝗠꯭𝗜꯭𝗡'
-global.namecomu = '𝗖𝗼𝗺𝘂𝗻𝗶𝗱𝗮𝗱 𝝡𝝣𝗚𝗨𝗠𝗜𝗡'
+global.asistencia = 'Wa.me/51920227615'
+global.namechannel = '⏤͟͞ू⃪ ፝͜⁞Nagi✰⃔࿐/ᥫᩣSeishiro Nagi⋆̟(◣_◢)凸'
+global.namegrupo = '⁝̵̓ᝒ̷̸͙🌸̶̩ܻᝒ̷̸꯭͙Nagi Proyect'
+global.namecomu = 'Nagi Proyect'
 global.colab1 = 'Miguelon'
 global.colab2 = 'Steven'
 global.colab3 = 'Dino'
 
 //Ids channel
-global.idchannel = '120363350554513092@newsletter'
-global.canalIdM = ["120363307382381547@newsletter", "120363350554513092@newsletter"]
-global.canalNombreM = ["──͟͞꘩𓎇̶𝐿̸𝑒̤𝑔֟֯፝𝑒⃯𝑛̷̈𝑑̤𝑠͡𔗓𝐵̸͜𝑜𝑡͜ꤩꤨ𝑠ꦁ⃯㍰ꫂ", "Megumin - Test 💥"]
+global.idchannel = ''
+global.canalIdM = [""]
+global.canalNombreM = ["──͟͞꘩𓎇̶𝐿̸𝑒̤𝑔֟֯፝𝑒⃯𝑛̷̈𝑑̤𝑠͡𔗓𝐵̸͜𝑜𝑡͜ꤩꤨ𝑠ꦁ⃯㍰ꫂ", 'Nagi - Test 💥"]
 global.channelRD = await getRandomChannel()
 
 //Reacciones De Comandos.!
@@ -61,7 +61,7 @@ global.rwait = '🕒'
 global.done = '✅'
 global.error = '✖️'
 
-//Emojis determinado de Megumin
+//Emojis determinado de Nagi-Bot
 global.emoji = '🔥'
 global.emoji2 = '💥'
 global.emoji3 = '❤️‍🔥'
@@ -69,18 +69,18 @@ global.emoji4 = '🍭'
 global.emojis = [emoji, emoji2, emoji3, emoji4].getRandom()
 
 //mensaje en espera
-global.wait = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼, 𝗦𝗼𝘆 𝗟𝗲𝗻𝘁𝗮 ...*';
-global.waitt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼, 𝗦𝗼𝘆 𝗟𝗲𝗻𝘁𝗮 ...*';
-global.waittt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼, 𝗦𝗼𝘆 𝗟𝗲𝗻𝘁𝗮 ...*';
-global.waitttt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼, 𝗦𝗼𝘆 𝗟𝗲𝗻𝘁𝗮 ...*';
+global.wait = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼, 𝗦𝗼𝘆 𝗟𝗲𝗻𝘁o ...*';
+global.waitt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼, 𝗦𝗼𝘆 𝗟𝗲𝗻𝘁o ...*';
+global.waittt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼, 𝗦𝗼𝘆 𝗟𝗲𝗻to ...*';
+global.waitttt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼, 𝗦𝗼𝘆 𝗟𝗲𝗻𝘁o ...*';
 
 //Enlaces
-var canal = 'https://whatsapp.com/channel/0029VacDy0R6hENqnTKnG820'  
-let canal2 = 'https://whatsapp.com/channel/0029Vaxr2YgLCoWy2NS1Ab0a'
-var git = 'https://github.com/David-Chian' 
-var youtube = 'https://youtube.com/@davidchian4957' 
+var canal = 'https://whatsapp.com/channel/0029Vaz6RTR0LKZIKwudX32x'  
+let canal2 = 'https://whatsapp.com/channel/0029Vaz6RTR0LKZIKwudX32x'
+var git = 'https://github.com/seishironagibot' 
+var youtube = 'https://youtube.com/seishironagi' 
 var github = 'https://github.com/David-Chian/Megumin-Bot-MD' 
-let correo = 'noisebot40@gmail.com'
+let correo = 'correod819@gmail.com'
 
 global.redes = [canal, canal2, git, youtube, github, correo].getRandom()
 
