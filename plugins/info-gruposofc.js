@@ -5,20 +5,20 @@ let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status
  await m.react('⚡️')
 let str = `*📍 GRUPO OFICIAL*
 
-   *_〾̷̸‣⃝⃨⃛⃰⁝̵̓ᝒ̷̸͙🌸̶̩ܻᝒ̷̸꯭͙𝝡꯭𝝣꯭𝗚꯭𝗨꯭𝗠꯭𝗜꯭𝗡᭄𓆩֟֯፝𓆪𝝣⃯ᵴͦ𝛒⃨ᷫ𝛆ͨ🄲⃪⃯𝛊ᷨ𝛂⃨ͦꝆ᷽ͭ🍁⃝⃙̻⃮̋⃛⃰⁌̷̸̊͟⿻᳔̶̷̸_*
+   *_〾̷̸‣⃝⃨⃛⃰⁝̵̓ᝒ̷̸͙🌸̶̩ܻᝒ̷̸꯭͙Nagi's Proyect᭄𓆩֟֯፝𓆪𝝣⃯ᵴͦ𝛒⃨ᷫ𝛆ͨ🄲⃪⃯𝛊ᷨ𝛂⃨ͦꝆ᷽ͭ🍁⃝⃙̻⃮̋⃛⃰⁌̷̸̊͟⿻᳔̶̷̸_*
   ┃🧸❏ ${gp4}
 
    *_ ͟͞〾⃝̵͡𝑬⃗ꭙȾ⃯𝑟𝘦𝑚⃖𝚎֟֯፝͜❀̵⃕ ̤🄷𝕖ᷨɳͦᵵͭ𝐚͢𝖏♡̵̭̭̎͟͞ ₂₀፝֟֯࣪࣪࣪₁₂_*
-┃🧸❏ https://chat.whatsapp.com/J9gyFJLbhVIJXaUZlpo8Xt
+┃🧸❏ Proximamente
    
    *_Grupo de antojar 3.0_*
-┃🧸❏ https://chat.whatsapp.com/LJKcR8QBJgu37bVFWuhRVn
+┃🧸❏ https://chat.whatsapp.com/FYJyQX59l066Fi9pMGtlP4
 
-   *_Grupo Colaboración Yaemori_*
-┃❤️‍🔥❏ https://chat.whatsapp.com/HjVwC835OWgERQYhspnMW8
+   *_Grupo 1_*
+┃❤️‍🔥❏ https://chat.whatsapp.com/H5UC1FBtT0pI2YjJZ6zipB
 
    *_Canal Oficial_*
-┃❤️‍🔥❏ https://whatsapp.com/channel/0029VacDy0R6hENqnTKnG820
+┃❤️‍🔥❏ https://whatsapp.com/channel/0029Vaz6RTR0LKZIKwudX32x
 `
 await conn.sendButton(m.chat, str, `͟͞ 𓆩ꪶꪾ𝘿᪶𝙞ᷨ𝙖ᷞ𝙢ͣ𝙤᪶ͨ𝙣ᷜ𝙙ꫂৎ୭࠱࠭ ͟͞\n` + wm, media, [
 ['Menu Lista 💖', '/lista']], null, [
